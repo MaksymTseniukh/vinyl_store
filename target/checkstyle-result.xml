@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\config\AppConfig.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\config\DataInitializer.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\config\WebAppInitializer.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\config\WebConfig.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\controller\RecordController.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\controller\SongController.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\dao\RecordDao.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\dao\RecordDaoImpl.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\dao\SongDao.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\dao\SongDaoImpl.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\dto\response\RecordDetailsResponseDto.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\dto\response\RecordResponseDto.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\dto\response\SongResponseDto.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\exception\DataProcessingException.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\model\Record.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\model\ShoppingCart.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\model\Song.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\service\mapper\RecordDtoMapper.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\service\mapper\SongDtoMapper.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\service\RecordService.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\service\RecordServiceImpl.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\service\SongService.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\java\vinyl\service\SongServiceImpl.java">
+</file>
+<file name="D:\projects\vinyl_store\src\main\resources\db.properties">
+</file>
+</checkstyle>
